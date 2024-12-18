@@ -1,0 +1,58 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\ajax\libs\jquery.mask\1.14.16\jquery.mask.min-2.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\jquery-3.6.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://grp-wtspp.vercel.app/bot_config.js
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\bot_config-2.js
+Content Type: application/javascript
+
+Uri: https://grp-wtspp.vercel.app/SMS.html?FGDD=Loauyb734HSDHDS783JSDUE7Y34UEUY3GSDGHDSH73JS773USUSUS7ISUS63
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\SMS-1.html
+Content Type: text/html
+
+Uri: https://grp-wtspp.vercel.app/ZEBI11/Minnu.png
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\ZEBI11\Minnu-2.png
+Content Type: image/png
+
+Uri: https://grp-wtspp.vercel.app/ZEBI11/style.css
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\ZEBI11\style-2.css
+Content Type: text/css
+
+Uri: https://grp-wtspp.vercel.app/ZEBI11/ujTY9i_Jhs1.png
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\ZEBI11\ujTY9i_Jhs1-1.png
+Content Type: image/png
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\rsrc.php\v3\y7\r\DSxOAUB0raA-2.png
+Content Type: image/png
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/y9/l/0,cross/58P2v5ZIoPt.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\rsrc.php\v3\y9\l\0,cross\58P2v5ZIoPt-2.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yB/r/_0dVljceIA5.png
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\rsrc.php\v3\yB\r\_0dVljceIA5-2.png
+Content Type: image/png
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yI/l/0,cross/C2fHuK6eV5E.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\rsrc.php\v3\yI\l\0,cross\C2fHuK6eV5E-2.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\rsrc.php\v3\yq\r\mdQNdcFMi0p-2.png
+Content Type: image/png
+
+ent Type: image/png
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yI/l/0,cross/C2fHuK6eV5E.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\rsrc.php\v3\yI\l\0,cross\C2fHuK6eV5E-1.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png
+File Name: C:\Users\00\Desktop\0000000\grp-wtspp.vercel.app\rsrc.php\v3\yq\r\mdQNdcFMi0p-1.png
+Content Type: image/png
+
